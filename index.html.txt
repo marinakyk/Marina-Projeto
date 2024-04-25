@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Minha Página</h1>
+    </header>
+    
+    <main>
+        <p>Esta é uma página básica criada como parte de uma atividade prática.</p>
+        <img src="images/minha-imagem.jpg" alt="Minha Imagem">
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Minha Página. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
